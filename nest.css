@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&family=Bebas+Neue&family=Mukta:wght@200;300;400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Londrina+Sketch&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+h1{
+  font-family: "Archivo Black", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  
+}
+
+
+.h2in{
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.h1si{
+  font-family: "Mukta", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  color: rgba(63, 201, 219, 0.937);
+
+}
+.abd{
+  display: flex;
+  align-items: center;
+}
+
+.contact{
+  margin: 30px;
+}
